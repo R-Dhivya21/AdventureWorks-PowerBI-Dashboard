@@ -1,71 +1,97 @@
 # AdventureWorks-PowerBI-Dashboard  
 Power BI dashboard for AdventureWorks with insights on sales, profit, returns, and customer analysis.  
 
-# 🚴 AdventureWorks Executive Dashboard | Power BI  
+# AdventureWorks Power BI Dashboard  
 
-An **interactive business intelligence dashboard** built in Microsoft Power BI for **AdventureWorks**, a global manufacturing company specializing in bicycles and accessories.  
+A Microsoft Power BI **business intelligence dashboard** for **AdventureWorks**, a fictional global manufacturing company that produces cycling equipment and accessories.  
 
-This project provides analysis of **sales, returns, product performance, and customer behavior** using the **AdventureWorks dataset**.  
+The dataset was supplied with the **Maven Analytics Power BI Desktop course**, derived from the **AdventureWorks sample databases** provided by Microsoft.  
 
-
-## 📌 Project Objectives  
-- Track **key business KPIs** (revenue, profit, return rates, and product sales)  
-- Compare **regional and product category performance**  
-- Identify **top-performing products** and **high-value customers**  
-- Provide actionable insights through **interactive dashboards**  
+The customer base spans **6 countries across 3 continents**: Australia, Canada, France, Germany, United Kingdom, and United States.  
+Sales and return data covers the period **01/01/2020 – 30/06/2022**.  
+Customer profiles include: date of birth, annual income, education level, number of children, occupation, and homeowner status.  
 
 ---
 
-## 🚀 Features  
-- 📊 **Executive Dashboard** – High-level KPIs and product performance summary  
-- 🌍 **Map Dashboard** – Sales, revenue, and returns by continent & country  
-- 📦 **Product Details Dashboard** – Drill-down into product-level profitability, sales, and returns  
-- 👥 **Customer Insights Dashboard** – Customer segmentation by income, occupation, and geography  
+## AdventureWorks Executive Dashboard  
+
+### Features  
+- Track **key performance indicators (KPIs)** for sales, revenue, profit, and returns  
+- Compare **regional performance** across countries  
+- Analyze **product-level sales and return trends**  
+- Identify **high-value customers and market segments**  
 
 ---
 
-## 📊 Dashboard Pages  
+## Project Highlights  
+This project involved:  
+- Connecting and transforming raw data using **Power Query**  
+- Building a **relational data model**  
+- Creating calculated columns and measures using **DAX**  
+- Implementing a **rolling calendar** with Power Query M code  
+- Designing and publishing an **interactive Power BI dashboard**  
 
-### 1. Executive Summary  
-- KPIs: Total Revenue, Unique Customers, Revenue per Customer, Orders, Return Rate  
-- Revenue trend by date  
-- Top 10 products by revenue  
-- Total orders by category  
-- Drill-down product table with revenue & return rates  
+---
 
-### 2. Product Details  
-- Product count, quantity sold, and profit margin %  
-- Average product price & cost  
-- Top 5 products by revenue and sold quantity  
-- Top returned products (with return % share)  
-- Revenue trend by month  
+## Dashboard Pages  
 
-### 3. Customer Insights  
-- Unique customers & revenue per customer  
+### 1. Executive Summary View  
+- High-level KPIs for revenue, profit, orders, and return rates  
+- Page-level filtering by product and product category  
+- Drill-through per product to **Product Detail View**  
+
+ *Preview:*  
+![Executive Dashboard](images/executive_dashboard.png)  
+
+---
+
+### 2. Map View  
+- Total orders, revenue, and returns by country  
+- Geographic heat map of quantity sold  
+
+ *Preview:*  
+![Map Dashboard](images/map_dashboard.png)  
+
+---
+
+### 3. Product Detail View  
+- Per-product performance vs. order, revenue, and profit targets  
+- “What If” analysis via price adjustment to simulate profit  
+- Top 5 products by revenue, sold quantity, and returns  
+
+ *Preview:*  
+![Product Details](images/product_details.png)  
+
+---
+
+### 4. Customer Detail View  
+- Total customers and revenue per customer  
 - Top 100 customers by revenue and orders  
-- Segmentation: by **occupation** & **income level**  
-- Revenue per customer trend (weekly)  
+- Segmentation by **occupation** and **income level**  
 
-### 4. Map Dashboard  
-- Quantity sold by country (bubble map)  
-- Revenue distribution by continent  
-- Return rate trends by country and day  
-- Revenue by month  
+ *Preview:*  
+![WhatsApp Image 2025-09-09 at 9 37 33 PM](https://github.com/user-attachments/assets/1aaaf35e-ee04-41f4-bff5-1f55bd2262e0)
+
 
 ---
 
-## 🔎 Key Insights  
-- Generated **$24.9M in revenue** and **$10.5M in profit** (Jan 2020 – Jun 2022)  
-- Revenue dip during **mid-2020**, possibly due to COVID-19  
-- **Dec 2021**: record revenue of **$1.64M**, likely seasonal sales campaign  
-- **Clothing & accessories** are highly profitable, while **tires & tubes** dominate order volumes  
-- Return rate steady at **2.17%**; cycling shorts show the highest return rates  
-- **United States** leads with **$7.94M revenue**, while **Australia** has the highest revenue per customer (**$2,131**)  
-- Revenue per customer shows a **year-on-year decline** despite overall growth in customers  
+## Insights  
+
+- Generated **$24.9M in revenue** and **$10.5M in profit** between **Jan 2020 – Jun 2022**  
+- Revenue dip observed between **Jun 2020 – Nov 2020** (likely due to COVID-19 impact), then steady recovery  
+- **Dec 2021**: record revenue of **$1.64M**, likely driven by seasonal sales campaigns (e.g., Black Friday)  
+- **Tires & tubes** are the most ordered product type  
+- **Cycling shorts** have the highest return rates  
+- Despite high returns, **sports helmets** and **mountain bike fenders** are strong revenue drivers  
+- Most profitable categories: **clothing and accessories**  
+- Customer base growth surged in **Aug 2021 (+200 customers per week)**  
+- **Revenue per customer** has been **declining year-on-year**  
+- **United States**: largest market with **8,700 orders** and **$7.94M revenue**  
+- **Australia**: highest revenue per customer at **$2,131**  
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack  
 - **Microsoft Power BI Desktop**  
 - **Power Query (M)** for data extraction & transformation  
 - **DAX** for calculated columns & measures  
@@ -74,30 +100,13 @@ This project provides analysis of **sales, returns, product performance, and cus
 
 ---
 
-## 📂 Dataset  
+##  Dataset  
 - **Source**: Maven Analytics (AdventureWorks sample database by Microsoft)  
-- **Time Period**: Jan 2020 – Jun 2022  
-- **Coverage**: Sales, returns, products, and customer demographics (income, occupation, education, homeowner status)  
+- **Coverage**: 01/01/2020 – 30/06/2022  
+- Includes: sales, returns, product catalog, and customer demographics  
 
 ---
-
-## 📷 Dashboard Preview  
-
-### Executive Dashboard  
-![Executive Dashboard](images/executive_dashboard.png)  
-
-### Product Details  
-![Product Details](images/product_details.png)  
-
-### Customer Insights  
-![Customer Insights](images/customer_details.png)  
-
-### Map Dashboard  
-![Map Dashboard](images/map_dashboard.png)  
-
----
-
-## ✨ Conclusion  
+##  Conclusion  
 This project demonstrates **end-to-end BI development**:  
 1. Extracting & transforming raw data  
 2. Building a **relational data model**  
@@ -105,4 +114,3 @@ This project demonstrates **end-to-end BI development**:
 4. Designing an **interactive Power BI dashboard** with actionable insights  
 
 It provides business leaders with the ability to **track performance, explore product trends, and identify valuable customers** in real time.  
-
