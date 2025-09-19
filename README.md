@@ -41,7 +41,8 @@ This project involved:
 - Drill-through per product to **Product Detail View**  
 
  *Preview:*  
-![Executive Dashboard](images/executive_dashboard.png)  
+![WhatsApp Image 2025-09-09 at 9 37 36 PM](https://github.com/user-attachments/assets/5957d893-2e9f-46ea-ac32-8425cc13f1ee)
+  
 
 ---
 
@@ -50,7 +51,8 @@ This project involved:
 - Geographic heat map of quantity sold  
 
  *Preview:*  
-![Map Dashboard](images/map_dashboard.png)  
+![WhatsApp Image 2025-09-09 at 9 37 35 PM](https://github.com/user-attachments/assets/7b9ce802-e0d1-45ed-8846-66c19eda1eb0)
+  
 
 ---
 
@@ -60,7 +62,8 @@ This project involved:
 - Top 5 products by revenue, sold quantity, and returns  
 
  *Preview:*  
-![Product Details](images/product_details.png)  
+![WhatsApp Image 2025-09-09 at 9 37 34 PM](https://github.com/user-attachments/assets/42166aad-8189-45ce-8063-44f994f90bb1)
+ 
 
 ---
 
