@@ -1,22 +1,16 @@
 # AdventureWorks-PowerBI-Dashboard  
 Power BI dashboard for AdventureWorks with insights on sales, profit, returns, and customer analysis.  
 
-# AdventureWorks Power BI Dashboard  
-
-A Microsoft Power BI **business intelligence dashboard** for **AdventureWorks**, a fictional global manufacturing company that produces cycling equipment and accessories.  
-
-The dataset was supplied with the **Maven Analytics Power BI Desktop course**, derived from the **AdventureWorks sample databases** provided by Microsoft.  
+An **interactive business intelligence dashboard** built in Microsoft Power BI for **AdventureWorks**, a fictional global manufacturing company that produces cycling equipment and accessories.  
 
 The customer base spans **6 countries across 3 continents**: Australia, Canada, France, Germany, United Kingdom, and United States.  
-Sales and return data covers the period **01/01/2020 – 30/06/2022**.  
-Customer profiles include: date of birth, annual income, education level, number of children, occupation, and homeowner status.  
+- **Sales and return data**: 01/01/2020 – 30/06/2022  
+- **Customer profiles**: date of birth, annual income, education level, number of children, occupation, and homeowner status  
 
 ---
 
-## AdventureWorks Executive Dashboard  
-
-### Features  
-- Track **key performance indicators (KPIs)** for sales, revenue, profit, and returns  
+##  Dashboard Features  
+- Track **key performance indicators (KPIs)**: sales, revenue, profit, and returns  
 - Compare **regional performance** across countries  
 - Analyze **product-level sales and return trends**  
 - Identify **high-value customers and market segments**  
