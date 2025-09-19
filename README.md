@@ -1,4 +1,4 @@
-# AdventureWorks-PowerBI-Dashboard  
+<img width="1159" height="651" alt="product_details" src="https://github.com/user-attachments/assets/59960731-9509-49bd-89e0-7f4f0fc4278b" /># AdventureWorks-PowerBI
 Power BI dashboard for AdventureWorks with insights on sales, profit, returns, and customer analysis.  
 
 An **interactive business intelligence dashboard** built in Microsoft Power BI for **AdventureWorks**, a fictional global manufacturing company that produces cycling equipment and accessories.  
@@ -34,8 +34,8 @@ This project involved:
 - Page-level filtering by product and product category  
 - Drill-through per product to **Product Detail View**  
 
- *Preview:*  
-![WhatsApp Image 2025-09-09 at 9 37 36 PM](https://github.com/user-attachments/assets/5957d893-2e9f-46ea-ac32-8425cc13f1ee)
+ <img width="1159" height="651" alt="executive_dashboard" src="https://github.com/user-attachments/assets/0591faee-fe4c-49b6-b69d-de9c3912249f" />
+
   
 
 ---
@@ -44,8 +44,8 @@ This project involved:
 - Total orders, revenue, and returns by country  
 - Geographic heat map of quantity sold  
 
- *Preview:*  
-![WhatsApp Image 2025-09-09 at 9 37 35 PM](https://github.com/user-attachments/assets/7b9ce802-e0d1-45ed-8846-66c19eda1eb0)
+ <img width="1153" height="649" alt="map" src="https://github.com/user-attachments/assets/5d0a925e-3e28-499a-a8fb-d481ecd8f3a2" />
+
   
 
 ---
@@ -55,9 +55,9 @@ This project involved:
 - “What If” analysis via price adjustment to simulate profit  
 - Top 5 products by revenue, sold quantity, and returns  
 
- *Preview:*  
-![WhatsApp Image 2025-09-09 at 9 37 34 PM](https://github.com/user-attachments/assets/42166aad-8189-45ce-8063-44f994f90bb1)
  
+ <img width="1159" height="651" alt="product_details" src="https://github.com/user-attachments/assets/c0d497f5-53ee-4313-be31-cc2c7716ea23" />
+
 
 ---
 
@@ -66,13 +66,14 @@ This project involved:
 - Top 100 customers by revenue and orders  
 - Segmentation by **occupation** and **income level**  
 
- *Preview:*  
-![WhatsApp Image 2025-09-09 at 9 37 33 PM](https://github.com/user-attachments/assets/1aaaf35e-ee04-41f4-bff5-1f55bd2262e0)
+ <img width="1160" height="651" alt="customer_details" src="https://github.com/user-attachments/assets/d955424a-bb15-445f-be67-5b8a393bb0dd" />
+
 
 
 ---
 
 ## Insights  
+
 
 - Generated **$24.9M in revenue** and **$10.5M in profit** between **Jan 2020 – Jun 2022**  
 - Revenue dip observed between **Jun 2020 – Nov 2020** (likely due to COVID-19 impact), then steady recovery  
