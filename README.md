@@ -1,4 +1,4 @@
-<img width="1159" height="651" alt="product_details" src="https://github.com/user-attachments/assets/59960731-9509-49bd-89e0-7f4f0fc4278b" /># AdventureWorks-PowerBI
+## AdventureWorks-PowerBI-Dashboard
 Power BI dashboard for AdventureWorks with insights on sales, profit, returns, and customer analysis.  
 
 An **interactive business intelligence dashboard** built in Microsoft Power BI for **AdventureWorks**, a fictional global manufacturing company that produces cycling equipment and accessories.  
